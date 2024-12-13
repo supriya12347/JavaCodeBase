@@ -2,9 +2,9 @@ package com.mph.demo;
 
 public class MainClass {
 	
-	//Initial Prototype v1.0
+	//Developer1 made changes
 	public static void main(String[] args) {
-		System.out.println("--skeleton--");
+		System.out.println("--Developer 1 changes--");
 	}
 
 }
